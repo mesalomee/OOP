@@ -1,7 +1,6 @@
 # OOP
 
-**
-Object/instance - same thing. **
+**Object/instance - same thing. **
 **Attribute - variable created inside class**
 **Methods - functions inside classes**
 
