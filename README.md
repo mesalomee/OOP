@@ -1,8 +1,8 @@
 # OOP
 
-**Object/instance - same thing. \n
-Attribute - variable created inside class \n
-Methods - functions inside classes**
+*Object/instance - same thing. 
+*Attribute - variable created inside class
+*Methods - functions inside classes
 
 ***Python passes the object/instance as a first parameter to the method, that’s why we pass self -  as a first parameter every time we create a method.
 ***
