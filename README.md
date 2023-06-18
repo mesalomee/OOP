@@ -14,7 +14,7 @@ You can give default values to the attributes same way as it was in the function
 You can add additional attributes to the object, which has not been created in the `__init__ ` method. If you need them.
 
 In the method we can ask for special types for parameters. For example
-def `__init__ `(self, name: str)
+`def __init__ (self, name: str)`
 This means that it will only accept string as a parameter value 
 
 If we have default value passed for the parameter then there is no need to specify type as it will expect same type as a default value.
