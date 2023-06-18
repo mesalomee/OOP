@@ -21,7 +21,7 @@ If we have default value passed for the parameter then there is no need to speci
 
 We can run validations inside `__init__` method by using a word `assert`
 
-It is possible to create attribute which is shared but all the objects. It is called class attribute.
+It is possible to create attribute which is shared by all the objects. It is called class attribute.
 
 If you call an attribute on an object first it tries to find it inside object, if it can’t find it there, it will search for the attribute on the class level. 
 
