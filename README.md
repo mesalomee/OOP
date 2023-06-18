@@ -4,7 +4,7 @@
 - Attribute - variable created inside class
 - Methods - functions inside classes
 
-*** Python passes the object/instance as a first parameter to the method, that’s why we pass self -  as a first parameter every time we create a method. ***
+**Python passes the object/instance as a first parameter to the method, that’s why we pass self -  as a first parameter every time we create a method.**
 
 
 If we want some attributes to be crucial, and if they are not passed then an instance won’t be created, we can execute something in the background the second the instance/object is created. This is when `__init__` method (magic method) comes handy. 
