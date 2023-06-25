@@ -69,7 +69,7 @@ def instantiate_from_csv(cls):
         (create objects/instances)
         '''
 
-The static method doesn’t pass ტჰე object as a first argument. The class method has a mandatory first parameter - class itself - cls
+The static method doesn’t pass the object as a first argument. The class method has a mandatory first parameter - class itself - cls
 
 
 For each child class we create, we need to call the super() function in the __init__ in order to have access to all the attributes and methods a parent has. 
