@@ -1,5 +1,8 @@
 # OOP 
 
+Book Python 3 for absolute beginners (chapter 9 - classes pg. 181)
+(https://drive.google.com/file/d/18ZZo_bWrD6VcfO03Jpw4xHPOii5xl_Ru/view?usp=sharing)
+
 ## Live Session 1
 - Object/instance - same thing. 
 - Attribute - variable created inside class
