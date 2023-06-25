@@ -1,6 +1,6 @@
 # OOP 
 
-##Live Session 1
+## Live Session 1
 - Object/instance - same thing. 
 - Attribute - variable created inside class
 - Methods - functions inside classes
@@ -38,7 +38,7 @@ Classes 2
 
 
 
-##Live Session 2
+## Live Session 2
 
 If we want to create a method inside a class that will create an instance/object (instantiate), we can’t create an object method as the object has not been created yet. So we need to create a class method instead. 
 
